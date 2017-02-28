@@ -4,3 +4,6 @@
 2. If you use the plugin paste the code in the appropriate section under `Appearance > Custom Functions`
 3. If needed add/delete domains keeping the same format
 4. Use the `[company-email]` short code when building your contact form
+
+
+> _script_ _partially_ _edited_ _from_ _[http://sagarnangare.com](http://sagarnangare.com/validate-free-email-providers-gmail-yahoo-hotmail-domains-for-contact-form-7-wordpress-plugin/)_
